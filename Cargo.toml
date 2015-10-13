@@ -2,3 +2,10 @@
 name = "borealis"
 version = "0.0.0"
 authors = ["Francisco Gómez <espectalll123@kydara.com>"]
+
+[dependencies]
+hyper = "0.6"
+rustc-serialize = "0.3"
+
+[dependencies.clap]
+features = ["yaml"]

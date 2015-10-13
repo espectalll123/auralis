@@ -1,0 +1,4 @@
+name: borealis
+version: 0.0.0
+about: AUR helper based in the Rust programming language
+author: Francisco Gómez <espectalll123@kydara.com>
