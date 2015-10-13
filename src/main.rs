@@ -29,10 +29,14 @@ fn main() {
         .unwrap();
     let json_data = Json::from_str(&res_body)
         .unwrap();
+    println!("{}", json_data.pretty());
+    /*
     let json_obj = json_data
         .as_object()
         .unwrap();
     let results = json_obj.get("results")
         .unwrap();
+     */
+    
     // I *really* have no idea about Rust...
 }
