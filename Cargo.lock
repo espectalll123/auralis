@@ -1,5 +1,5 @@
 [root]
-name = "borealis"
+name = "auralis"
 version = "0.0.0"
 dependencies = [
  "clap 1.4.5 (registry+https://github.com/rust-lang/crates.io-index)",

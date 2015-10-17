@@ -1,4 +1,4 @@
-# Borealis
+# Auralis
 AUR helper based in the Rust programming language
 
 ## License
